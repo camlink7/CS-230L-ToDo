@@ -32,8 +32,11 @@ p {
 .delete-btn {
   justify-self: end;
   border: none;
-  background-color: transparent;
+  background-color: rgb(247, 96, 96);
   color: #C0E0DE;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 0.5rem;
 }
 
 .add-btn {
